@@ -1,1 +1,1 @@
-pip install -i http://pypi.douban.com/simple --trusted-host pypi.douban.com pygame
+https://www.bilibili.com/video/av31697253?from=search&seid=6787580277042566717 pygame

@@ -49,6 +49,11 @@ class MoFang:
         self.sprite_init()
 
     @staticmethod
+
+
+
+
+
     def image_slice():
         img = pygame.image.load('image.jpeg')
         imgs = []
